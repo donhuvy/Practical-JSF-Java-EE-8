@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Practical JSF in Java EE 8 *](https://www.apress.com/9781484230299) by Michael Müller (Apress, 2018).
+This repository accompanies [*Practical JSF in Java EE 8 *](https://www.apress.com/9781484230299) by Michael Mï¿½ller (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484230299.jpg)
@@ -14,3 +14,5 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
+
+[Safari book](https://www.safaribooksonline.com/library/view/practical-jsf-in/9781484230305/)
